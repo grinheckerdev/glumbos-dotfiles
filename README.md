@@ -31,7 +31,7 @@ This rice should look weird and be silly. It was a free comission for [GlumboCor
  - **App shortcuts and waybar tools**: Custom modules (modified ml4w)
  -  **Glumbocoin widget**: custom gtk application (included in the dotfiles)
  - **Power menu**: custom gtk application (included in the dotfiles)
- - **Wallpaper**: I made it myself. [Download link](https://i.postimg.cc/XqH5fcHh/glumbo-wallpaper.png)
+ - **Wallpaper**: I made it myself. [Download link](https://github.com/grinheckerdev/glumbos-dotfiles/blob/main/.config/ml4w/wallpapers/glumbo_wallpaper.png?raw=true)
  - **Fonts**: Can't tell which are default and which aren't, so here are all of the [installed font families](https://raw.githubusercontent.com/grinheckerdev/glumbos-dotfiles/refs/heads/main/fonts_families.txt)
  - **Code editor**: Sublime text (arch installation, check [Additional installation section](https://github.com/grinheckerdev/glumbos-dotfiles?tab=readme-ov-file#additional-installation))
  - **MacOS keybinds**: [Toshy](https://github.com/RedBearAK/toshy) (check [Additional installation section](https://github.com/grinheckerdev/glumbos-dotfiles?tab=readme-ov-file#additional-installation))
@@ -78,7 +78,6 @@ And then reboot or restart hyprland.
 
 ### Installing Sublime Text
 For x86 use [these instructions](https://www.sublimetext.com/docs/linux_repositories.html)
-
 For ARM:
 ```bash
 curl --output ./sublime_text.tar.xz "https://download.sublimetext.com/sublime_text_build_4189_arm64.tar.xz"
