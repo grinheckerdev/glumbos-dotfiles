@@ -78,6 +78,7 @@ And then reboot or restart hyprland.
 
 ### Installing Sublime Text
 For x86 use [these instructions](https://www.sublimetext.com/docs/linux_repositories.html)
+
 For ARM:
 ```bash
 curl --output ./sublime_text.tar.xz "https://download.sublimetext.com/sublime_text_build_4189_arm64.tar.xz"
