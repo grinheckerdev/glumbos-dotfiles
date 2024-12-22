@@ -37,7 +37,7 @@ This rice should look weird. It was a free comission for [GlumboCorp ](https://d
 1) **Install all above packages for your system.**
 2) **Follow these steps:**
 Clone the repo:
-`git clone https://github.com/grinheckerdev/glumbos-dotfiles`
-`cd glumbos-dotfiles`
+```git clone https://github.com/grinheckerdev/glumbos-dotfiles```
+```cd glumbos-dotfiles```
 
 
