@@ -2,9 +2,9 @@
 # glumbOS rice dotfiles
 
 ## Gallery
-![2024-12-22-131429-hyprshot.png](https://i.postimg.cc/027xJ2zG/2024-12-22-131429-hyprshot.png)**Rofi app launcher demo**
+![2024-12-22-131429-hyprshot.png](https://github.com/grinheckerdev/glumbos-dotfiles/blob/main/gallery/2024-12-22-131429_hyprshot.png?raw=true)**Rofi app launcher demo**
 
-![2024-12-22-131321-hyprshot.png](https://i.postimg.cc/C5kyDmxM/2024-12-22-131321-hyprshot.png)**Power menu**
+![2024-12-22-131321-hyprshot.png](https://github.com/grinheckerdev/glumbos-dotfiles/blob/main/gallery/2024-12-22-131321_hyprshot.png?raw=true)**Power menu**
 
 ![2024-12-22-131312-hyprshot.png](https://github.com/grinheckerdev/glumbos-dotfiles/blob/main/gallery/2024-12-22-131312_hyprshot.png?raw=true)**Window tiling**
 
@@ -33,26 +33,32 @@ This rice should look weird. It was a free comission for [GlumboCorp ](https://d
  - **Wallpaper**: I made it myself. [Download link](https://i.postimg.cc/XqH5fcHh/glumbo-wallpaper.png)
  - **Fonts**: Can't tell which are default and which aren't, so here are all of the [installed font families](https://raw.githubusercontent.com/grinheckerdev/glumbos-dotfiles/refs/heads/main/fonts_families.txt)
  - **Code editor**: Sublime text (arch installation, check [Additional installation section](https://github.com/grinheckerdev/glumbos-dotfiles?tab=readme-ov-file#additional-installation))
- -  - **MacOS keybinds**: [Toshy](https://github.com/RedBearAK/toshy) (check [Additional installation section](https://github.com/grinheckerdev/glumbos-dotfiles?tab=readme-ov-file#additional-installation))
+ - **MacOS keybinds**: [Toshy](https://github.com/RedBearAK/toshy) (check [Additional installation section](https://github.com/grinheckerdev/glumbos-dotfiles?tab=readme-ov-file#additional-installation))
+ - **Icon font**: [FontAwesome6 Free](https://packages.fedoraproject.org/pkgs/fontawesome-fonts/fontawesome-6-free-fonts/), [FontAweosme6 brands](https://packages.fedoraproject.org/pkgs/fontawesome-fonts/fontawesome-6-brands-fonts/) and a custom font (for glumbocoin and sublime text)
 
 ## Installation
 1) **Install all above packages for your system.**
 2) **Follow these steps:**
 
+Install Pyhton 3.13 and all needed packages:
+```bash
+sudo dnf update -y
+sudo dnf install -y python3.13 python3.13-pip
+sudo dnf install -y python3-gobject python3-cairo gtk3 pango
+```
+
 Clone the repo:
 ```bash
 git clone https://github.com/grinheckerdev/glumbos-dotfiles
-```
-```bash
 cd glumbos-dotfiles
 ```
  Copy all files:
- ```bash
+```bash
 cp -r ./.config/hypr ~/.config
 cp -r ./.config/waybar ~/.config
 cp -r ./.config/alacritty ~/.config/
 cp -r ./.config/ml4w ~/.config/
- ```
+```
 
 ## Additional installation
 
