@@ -57,7 +57,7 @@
     "custom/glumbocoin": {
         "format": "",
         "tooltip-format": "GlumboCoin widget :3",
-        "on-click": "/home/grinhecker/.config/hypr/toggle_glumbocoin.sh",
+        "on-click": "~/.config/hypr/toggle_glumbocoin.sh",
         "tooltip": false
     },
 
