@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Path to the widget script
-WIDGET_SCRIPT="/home/grinhecker/.config/hypr/custom_glumbocoin_widget.py"
+WIDGET_SCRIPT="~/.config/hypr/custom_glumbocoin_widget.py"
 
 # Set the DISPLAY variable (adjust if necessary)
 export DISPLAY=:0
