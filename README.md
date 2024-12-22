@@ -1,3 +1,4 @@
+
 # glumbOS rice dotfiles
 
 ## Gallery
@@ -36,8 +37,16 @@ This rice should look weird. It was a free comission for [GlumboCorp ](https://d
 ## Installation
 1) **Install all above packages for your system.**
 2) **Follow these steps:**
-Clone the repo:
-```git clone https://github.com/grinheckerdev/glumbos-dotfiles```
-```cd glumbos-dotfiles```
 
+Clone the repo:
+```
+git clone https://github.com/grinheckerdev/glumbos-dotfiles
+```
+```
+cd glumbos-dotfiles
+```
+ Copy all files:
+ ```
+ cp 
+ ```
 
