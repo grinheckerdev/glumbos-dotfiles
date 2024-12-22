@@ -1,0 +1,108 @@
+Noto Sans Gurmukhi
+Noto Sans Arabic
+Noto Serif Bengali
+Noto Sans Bengali
+Standard Symbols PS
+Noto Serif Devanagari
+URW Gothic
+Noto Naskh Arabic
+Noto Sans Thaana
+Font Awesome 6 Free,Font Awesome 6 Free Solid
+Vazirmatn
+JetBrains Mono,JetBrains Mono Medium
+Noto Sans Sinhala
+Noto Serif Gurmukhi
+Nimbus Roman
+Noto Sans Cherokee
+Fira Code
+Noto Serif Thai
+Noto Serif Lao
+DejaVu Sans Mono
+Source Sans 3,Source Sans 3 Semibold
+Noto Serif CJK JP
+Noto Serif CJK KR
+Noto Serif CJK HK
+Roboto
+Noto Sans Symbols 2
+Source Sans 3,Source Sans 3 Medium
+Noto Serif CJK SC
+Noto Serif CJK TC
+Noto Serif Kannada
+Nimbus Sans
+Noto Sans Hebrew,Noto Sans Hebrew Light
+Noto Sans Mono CJK SC
+Source Sans 3,Source Sans 3 Black
+Noto Sans Mono CJK TC
+PakType Naskh Basic
+Noto Sans Mono CJK JP
+Fira Code,Fira Code Retina
+Noto Sans Mono CJK HK
+Noto Sans Mono CJK KR
+RIT Meera New
+Nimbus Mono PS
+Padauk
+icomoon
+JetBrains Mono,JetBrains Mono ExtraLight
+Roboto,Roboto Thin
+Font Awesome 6 Brands,Font Awesome 6 Brands Regular
+Nimbus Sans Narrow
+Fira Mono
+Noto Sans Oriya
+URW Bookman
+PowerlineSymbols
+Fira Code,Fira Code Medium
+Noto Sans Georgian
+Noto Sans Telugu
+Source Sans 3
+Noto Serif Gujarati
+Noto Sans Ol Chiki
+Roboto,Roboto Light
+Source Sans 3,Source Sans 3 ExtraLight
+STIX,STIX Two Text,STIX Two Text Medium
+Noto Sans Meetei Mayek
+Fira Mono,Fira Mono Medium
+JetBrains Mono,JetBrains Mono Light
+Noto Sans Lao
+C059
+JetBrains Mono
+Noto Sans Gujarati
+Noto Serif Hebrew
+Noto Sans Armenian
+Z003
+Noto Serif Oriya
+JetBrains Mono,JetBrains Mono ExtraBold
+STIX,STIX Two Text
+Noto Sans Thai
+Noto Sans Khmer
+D050000L
+Noto Sans Math
+Roboto,Roboto Medium
+Font Awesome 6 Free,Font Awesome 6 Free Regular
+Noto Serif Georgian
+JetBrains Mono,JetBrains Mono Thin
+Noto Sans Symbols
+Noto Sans CJK HK
+Noto Sans CJK KR
+Noto Sans CJK JP
+STIX,STIX Two Math
+Noto Serif Telugu
+Noto Sans CJK SC
+Noto Sans CJK TC
+Jomolhari
+STIX,STIX Two Text,STIX Two Text SemiBold
+Noto Sans Kannada
+Fira Code,Fira Code Light
+Noto Sans Canadian Aboriginal
+Noto Sans Tamil
+Noto Serif Armenian
+Roboto,Roboto Black
+Noto Serif Sinhala
+P052
+Noto Serif Ethiopic
+Noto Sans Devanagari
+Noto Serif Khmer
+Noto Serif Tamil
+Noto Sans Ethiopic
+Source Sans 3,Source Sans 3 Light
+JetBrains Mono,JetBrains Mono SemiBold
+Fira Code,Fira Code SemiBold
