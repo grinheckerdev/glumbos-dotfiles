@@ -6,13 +6,13 @@
 
 ![2024-12-22-131321-hyprshot.png](https://i.postimg.cc/C5kyDmxM/2024-12-22-131321-hyprshot.png)**Power menu**
 
-![2024-12-22-131312-hyprshot.png](https://i.postimg.cc/QN5vfYjh/2024-12-22-131312-hyprshot.png)**Window tiling**
+![2024-12-22-131312-hyprshot.png](https://github.com/grinheckerdev/glumbos-dotfiles/blob/main/gallery/2024-12-22-131312_hyprshot.png?raw=true)**Window tiling**
 
-![2024-12-22-131217-hyprshot.png](https://i.postimg.cc/Pq9F4YcC/2024-12-22-131217-hyprshot.png)
+![2024-12-22-131217-hyprshot.png](https://github.com/grinheckerdev/glumbos-dotfiles/blob/main/gallery/2024-12-22-131217_hyprshot.png?raw=true)
 **Listening to glumbo music without tiling the windows**
-*Wow!! GlumboCoin is up by 900%!!*
+*Wow! GlumboCoin is up by 900%!!*
 
-![2024-12-22-131019-hyprshot.png](https://i.postimg.cc/1znvf4ts/2024-12-22-131019-hyprshot.png)**Glumbo forums**
+![2024-12-22-131019-hyprshot.png](https://raw.githubusercontent.com/grinheckerdev/glumbos-dotfiles/refs/heads/main/gallery/2024-12-22-131019_hyprshot.png)**Glumbo forums**
 
 ---
 ## Why?
@@ -31,22 +31,27 @@ This rice should look weird. It was a free comission for [GlumboCorp ](https://d
  -  **Glumbocoin widget**: custom gtk application (included in the dotfiles)
  - **Power menu**: custom gtk application (included in the dotfiles)
  - **Wallpaper**: I made it myself. [Download link](https://i.postimg.cc/XqH5fcHh/glumbo-wallpaper.png)
- - **Fonts**: Can't tell which are default and which aren't, so here are all of the installed font families
-
+ - **Fonts**: Can't tell which are default and which aren't, so here are all of the [installed font families](https://raw.githubusercontent.com/grinheckerdev/glumbos-dotfiles/refs/heads/main/fonts_families.txt)
+ - **Code editor**: Sublime text (arch installation, check 
 
 ## Installation
 1) **Install all above packages for your system.**
 2) **Follow these steps:**
 
 Clone the repo:
-```
+```bash
 git clone https://github.com/grinheckerdev/glumbos-dotfiles
 ```
-```
+```bash
 cd glumbos-dotfiles
 ```
  Copy all files:
+ ```bash
+cp -r ./.config/hypr ~/.config
+cp -r ./.config/waybar ~/.config
+cp -r ./.config/alacritty ~/.config/
  ```
- cp 
- ```
+
+## Additional installation
+
 
