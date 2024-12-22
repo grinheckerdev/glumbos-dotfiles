@@ -1,0 +1,29 @@
+{
+    "custom/color_shuffle": {
+        "exec": "~/.config/ml4w/settings/shuffle_colors.sh",
+        "tooltip-format": "Color-changing :3",
+        "interval": 1
+    },
+
+    "custom/quicklink1": {
+        "format": " ",
+        "on-click": "~/.config/ml4w/settings/browser.sh",
+        "tooltip-format": "Open the browser"
+    },
+    "custom/quicklink2": {
+        "format": " ",
+        "on-click": "~/.config/ml4w/settings/filemanager.sh",
+        "tooltip-format": "Open the filemanager"
+    }, 
+    "custom/quicklinkempty": {
+    }, 
+    "group/quicklinks": {
+        "orientation": "horizontal",
+        "modules": [
+            "custom/quicklink1",
+            "custom/quicklink2",
+            "custom/quicklinkempty"
+        ]
+    }
+
+}

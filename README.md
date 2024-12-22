@@ -32,7 +32,8 @@ This rice should look weird. It was a free comission for [GlumboCorp ](https://d
  - **Power menu**: custom gtk application (included in the dotfiles)
  - **Wallpaper**: I made it myself. [Download link](https://i.postimg.cc/XqH5fcHh/glumbo-wallpaper.png)
  - **Fonts**: Can't tell which are default and which aren't, so here are all of the [installed font families](https://raw.githubusercontent.com/grinheckerdev/glumbos-dotfiles/refs/heads/main/fonts_families.txt)
- - **Code editor**: Sublime text (arch installation, check 
+ - **Code editor**: Sublime text (arch installation, check [Additional installation section](https://github.com/grinheckerdev/glumbos-dotfiles?tab=readme-ov-file#additional-installation))
+ -  - **MacOS keybinds**: [Toshy](https://github.com/RedBearAK/toshy) (check [Additional installation section](https://github.com/grinheckerdev/glumbos-dotfiles?tab=readme-ov-file#additional-installation))
 
 ## Installation
 1) **Install all above packages for your system.**
@@ -50,6 +51,7 @@ cd glumbos-dotfiles
 cp -r ./.config/hypr ~/.config
 cp -r ./.config/waybar ~/.config
 cp -r ./.config/alacritty ~/.config/
+cp -r ./.config/ml4w ~/.config/
  ```
 
 ## Additional installation
