@@ -72,6 +72,19 @@ cp -r ./.config/ml4w ~/.config/
 cp ./fonts/sublime-custom.ttf /usr/share/fonts
 sudo fc-cache -v
 ```
+
+Give permission to run files:
+```bash
+sudo chmod +x ~/.config/hypr/toggle_glumbocoin.sh
+sudo chmod +x ~/.config/ml4w/scripts/keybindings.sh
+sudo chmod +x ~/.config/ml4w/scripts/reload-hyprpaper.sh
+sudo chmod +x ~/.config/ml4w/scripts/reload-waybar.sh
+sudo chmod +x ~/.config/ml4w/settings/browser.sh
+sudo chmod +x ~/.config/ml4w/settings/filemanager.sh
+sudo chmod +x ~/.config/ml4w/settings/shuffle_colors.sh
+sudo chmod +x ~/.config/waybar/shuffle_colors.sh
+```
+
 And then reboot or restart hyprland.
 
 ## Additional installation / customization
