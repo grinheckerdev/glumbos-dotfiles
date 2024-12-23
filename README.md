@@ -3,7 +3,12 @@
 # glumbOS rice dotfiles
 
 ## Gallery
-![2024-12-22-131429-hyprshot.png](https://github.com/grinheckerdev/glumbos-dotfiles/blob/main/gallery/2024-12-22-131429_hyprshot.png?raw=true)**Rofi app launcher demo**
+
+![2024-12-22-131429-hyprshot.png](https://github.com/grinheckerdev/glumbos-dotfiles/blob/main/gallery/2024-12-22-131429_hyprshot.png?raw=true)
+**Rofi app launcher demo**
+
+![cava-waybar-widget](https://github.com/grinheckerdev/glumbos-dotfiles/blob/main/gallery/cava-widget-demo.gif?raw=true)
+**Custom audio visualizer demo** 
 
 ![2024-12-22-131321-hyprshot.png](https://github.com/grinheckerdev/glumbos-dotfiles/blob/main/gallery/2024-12-22-131321_hyprshot.png?raw=true)**Power menu**
 
@@ -83,6 +88,8 @@ sudo chmod +x ~/.config/ml4w/settings/browser.sh
 sudo chmod +x ~/.config/ml4w/settings/filemanager.sh
 sudo chmod +x ~/.config/ml4w/settings/shuffle_colors.sh
 sudo chmod +x ~/.config/waybar/shuffle_colors.sh
+sudo chmod +x ~/.config/waybar/scripts/bar_control.py
+sudo chmod +x ~/.config/waybar/scripts/generate_css.sh
 ```
 
 And then reboot or restart hyprland.
