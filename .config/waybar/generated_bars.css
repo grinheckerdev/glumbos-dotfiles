@@ -1,0 +1,1065 @@
+/* Generated CSS for Waybar bars */
+#custom-bar1 {
+    background-color: #edff0f;
+    margin: 0 1px; /* Small horizontal spacing */
+    padding: 0; /* Reset padding */
+    color: transparent; /* Invisible text */
+    font-size: 0; /* Invisible text */
+}
+#custom-bar1.size-0 {
+    margin-top: 33px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar1.size-1 {
+    margin-top: 32px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar1.size-2 {
+    margin-top: 31px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar1.size-3 {
+    margin-top: 30px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar1.size-4 {
+    margin-top: 29px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar1.size-5 {
+    margin-top: 28px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar1.size-6 {
+    margin-top: 27px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar1.size-7 {
+    margin-top: 26px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar1.size-8 {
+    margin-top: 25px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar1.size-9 {
+    margin-top: 24px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar1.size-10 {
+    margin-top: 23px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar1.size-11 {
+    margin-top: 22px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar1.size-12 {
+    margin-top: 21px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar1.size-13 {
+    margin-top: 20px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar1.size-14 {
+    margin-top: 19px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar1.size-15 {
+    margin-top: 18px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar1.size-16 {
+    margin-top: 17px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar1.size-17 {
+    margin-top: 16px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar1.size-18 {
+    margin-top: 15px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar1.size-19 {
+    margin-top: 14px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar1.size-20 {
+    margin-top: 13px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2 {
+    background-color: #6717fe;
+    margin: 0 1px; /* Small horizontal spacing */
+    padding: 0; /* Reset padding */
+    color: transparent; /* Invisible text */
+    font-size: 0; /* Invisible text */
+}
+#custom-bar2.size-0 {
+    margin-top: 33px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2.size-1 {
+    margin-top: 32px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2.size-2 {
+    margin-top: 31px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2.size-3 {
+    margin-top: 30px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2.size-4 {
+    margin-top: 29px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2.size-5 {
+    margin-top: 28px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2.size-6 {
+    margin-top: 27px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2.size-7 {
+    margin-top: 26px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2.size-8 {
+    margin-top: 25px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2.size-9 {
+    margin-top: 24px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2.size-10 {
+    margin-top: 23px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2.size-11 {
+    margin-top: 22px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2.size-12 {
+    margin-top: 21px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2.size-13 {
+    margin-top: 20px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2.size-14 {
+    margin-top: 19px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2.size-15 {
+    margin-top: 18px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2.size-16 {
+    margin-top: 17px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2.size-17 {
+    margin-top: 16px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2.size-18 {
+    margin-top: 15px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2.size-19 {
+    margin-top: 14px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar2.size-20 {
+    margin-top: 13px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3 {
+    background-color: #ff0fe7;
+    margin: 0 1px; /* Small horizontal spacing */
+    padding: 0; /* Reset padding */
+    color: transparent; /* Invisible text */
+    font-size: 0; /* Invisible text */
+}
+#custom-bar3.size-0 {
+    margin-top: 33px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3.size-1 {
+    margin-top: 32px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3.size-2 {
+    margin-top: 31px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3.size-3 {
+    margin-top: 30px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3.size-4 {
+    margin-top: 29px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3.size-5 {
+    margin-top: 28px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3.size-6 {
+    margin-top: 27px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3.size-7 {
+    margin-top: 26px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3.size-8 {
+    margin-top: 25px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3.size-9 {
+    margin-top: 24px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3.size-10 {
+    margin-top: 23px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3.size-11 {
+    margin-top: 22px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3.size-12 {
+    margin-top: 21px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3.size-13 {
+    margin-top: 20px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3.size-14 {
+    margin-top: 19px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3.size-15 {
+    margin-top: 18px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3.size-16 {
+    margin-top: 17px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3.size-17 {
+    margin-top: 16px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3.size-18 {
+    margin-top: 15px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3.size-19 {
+    margin-top: 14px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar3.size-20 {
+    margin-top: 13px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4 {
+    background-color: #17ffe2;
+    margin: 0 1px; /* Small horizontal spacing */
+    padding: 0; /* Reset padding */
+    color: transparent; /* Invisible text */
+    font-size: 0; /* Invisible text */
+}
+#custom-bar4.size-0 {
+    margin-top: 33px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4.size-1 {
+    margin-top: 32px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4.size-2 {
+    margin-top: 31px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4.size-3 {
+    margin-top: 30px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4.size-4 {
+    margin-top: 29px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4.size-5 {
+    margin-top: 28px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4.size-6 {
+    margin-top: 27px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4.size-7 {
+    margin-top: 26px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4.size-8 {
+    margin-top: 25px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4.size-9 {
+    margin-top: 24px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4.size-10 {
+    margin-top: 23px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4.size-11 {
+    margin-top: 22px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4.size-12 {
+    margin-top: 21px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4.size-13 {
+    margin-top: 20px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4.size-14 {
+    margin-top: 19px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4.size-15 {
+    margin-top: 18px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4.size-16 {
+    margin-top: 17px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4.size-17 {
+    margin-top: 16px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4.size-18 {
+    margin-top: 15px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4.size-19 {
+    margin-top: 14px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar4.size-20 {
+    margin-top: 13px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5 {
+    background-color: #edff0f;
+    margin: 0 1px; /* Small horizontal spacing */
+    padding: 0; /* Reset padding */
+    color: transparent; /* Invisible text */
+    font-size: 0; /* Invisible text */
+}
+#custom-bar5.size-0 {
+    margin-top: 33px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5.size-1 {
+    margin-top: 32px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5.size-2 {
+    margin-top: 31px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5.size-3 {
+    margin-top: 30px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5.size-4 {
+    margin-top: 29px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5.size-5 {
+    margin-top: 28px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5.size-6 {
+    margin-top: 27px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5.size-7 {
+    margin-top: 26px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5.size-8 {
+    margin-top: 25px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5.size-9 {
+    margin-top: 24px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5.size-10 {
+    margin-top: 23px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5.size-11 {
+    margin-top: 22px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5.size-12 {
+    margin-top: 21px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5.size-13 {
+    margin-top: 20px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5.size-14 {
+    margin-top: 19px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5.size-15 {
+    margin-top: 18px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5.size-16 {
+    margin-top: 17px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5.size-17 {
+    margin-top: 16px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5.size-18 {
+    margin-top: 15px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5.size-19 {
+    margin-top: 14px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar5.size-20 {
+    margin-top: 13px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6 {
+    background-color: #6717fe;
+    margin: 0 1px; /* Small horizontal spacing */
+    padding: 0; /* Reset padding */
+    color: transparent; /* Invisible text */
+    font-size: 0; /* Invisible text */
+}
+#custom-bar6.size-0 {
+    margin-top: 33px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6.size-1 {
+    margin-top: 32px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6.size-2 {
+    margin-top: 31px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6.size-3 {
+    margin-top: 30px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6.size-4 {
+    margin-top: 29px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6.size-5 {
+    margin-top: 28px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6.size-6 {
+    margin-top: 27px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6.size-7 {
+    margin-top: 26px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6.size-8 {
+    margin-top: 25px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6.size-9 {
+    margin-top: 24px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6.size-10 {
+    margin-top: 23px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6.size-11 {
+    margin-top: 22px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6.size-12 {
+    margin-top: 21px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6.size-13 {
+    margin-top: 20px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6.size-14 {
+    margin-top: 19px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6.size-15 {
+    margin-top: 18px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6.size-16 {
+    margin-top: 17px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6.size-17 {
+    margin-top: 16px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6.size-18 {
+    margin-top: 15px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6.size-19 {
+    margin-top: 14px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar6.size-20 {
+    margin-top: 13px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7 {
+    background-color: #ff0fe7;
+    margin: 0 1px; /* Small horizontal spacing */
+    padding: 0; /* Reset padding */
+    color: transparent; /* Invisible text */
+    font-size: 0; /* Invisible text */
+}
+#custom-bar7.size-0 {
+    margin-top: 33px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7.size-1 {
+    margin-top: 32px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7.size-2 {
+    margin-top: 31px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7.size-3 {
+    margin-top: 30px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7.size-4 {
+    margin-top: 29px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7.size-5 {
+    margin-top: 28px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7.size-6 {
+    margin-top: 27px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7.size-7 {
+    margin-top: 26px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7.size-8 {
+    margin-top: 25px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7.size-9 {
+    margin-top: 24px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7.size-10 {
+    margin-top: 23px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7.size-11 {
+    margin-top: 22px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7.size-12 {
+    margin-top: 21px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7.size-13 {
+    margin-top: 20px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7.size-14 {
+    margin-top: 19px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7.size-15 {
+    margin-top: 18px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7.size-16 {
+    margin-top: 17px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7.size-17 {
+    margin-top: 16px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7.size-18 {
+    margin-top: 15px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7.size-19 {
+    margin-top: 14px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar7.size-20 {
+    margin-top: 13px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8 {
+    background-color: #17ffe2;
+    margin: 0 1px; /* Small horizontal spacing */
+    padding: 0; /* Reset padding */
+    color: transparent; /* Invisible text */
+    font-size: 0; /* Invisible text */
+}
+#custom-bar8.size-0 {
+    margin-top: 33px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8.size-1 {
+    margin-top: 32px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8.size-2 {
+    margin-top: 31px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8.size-3 {
+    margin-top: 30px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8.size-4 {
+    margin-top: 29px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8.size-5 {
+    margin-top: 28px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8.size-6 {
+    margin-top: 27px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8.size-7 {
+    margin-top: 26px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8.size-8 {
+    margin-top: 25px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8.size-9 {
+    margin-top: 24px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8.size-10 {
+    margin-top: 23px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8.size-11 {
+    margin-top: 22px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8.size-12 {
+    margin-top: 21px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8.size-13 {
+    margin-top: 20px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8.size-14 {
+    margin-top: 19px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8.size-15 {
+    margin-top: 18px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8.size-16 {
+    margin-top: 17px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8.size-17 {
+    margin-top: 16px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8.size-18 {
+    margin-top: 15px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8.size-19 {
+    margin-top: 14px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+#custom-bar8.size-20 {
+    margin-top: 13px;
+    margin-bottom: 12px;
+    padding-right: 3px;
+    padding-left: 3px;
+}

@@ -57,7 +57,7 @@
     "custom/glumbocoin": {
         "format": "",
         "tooltip-format": "GlumboCoin widget :3",
-        "on-click": "~/.config/hypr/toggle_glumbocoin.sh",
+        "on-click": "/home/grinhecker/.config/hypr/toggle_glumbocoin.sh",
         "tooltip": false
     },
 
@@ -209,5 +209,13 @@
             "deactivated": ""
         },
         "on-click-right": "hyprlock"        
-    }
+    },
+    "custom/marker": {
+        "exec": "echo '   █'", // Empty content
+        "interval": 60,    // Update interval
+        "tooltip": false    // Disable tooltip
+    },
+    "custom/on_waybar": {
+        "exec": "~/.config/waybar/cava_widget.sh"
+    },
 }

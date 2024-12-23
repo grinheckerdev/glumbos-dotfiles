@@ -12,7 +12,8 @@
     // Load Modules
     "include": [
         "~/.config/ml4w/settings/waybar-quicklinks.json",
-        "~/.config/waybar/modules.json"
+        "~/.config/waybar/modules.json",
+        "~/.config/waybar/cava_bars.json"
     ],
     "modules-left": [
         "custom/appmenu",
@@ -23,6 +24,14 @@
     "modules-center": [
     ],
     "modules-right": [
+        "custom/bar1",
+        "custom/bar2",
+        "custom/bar3",
+        "custom/bar4",
+        "custom/bar5",
+        "custom/bar6",
+        "custom/bar7",
+        "custom/bar8",
         "custom/color_shuffle",
         "custom/glumbocoin",
         "mpd", 

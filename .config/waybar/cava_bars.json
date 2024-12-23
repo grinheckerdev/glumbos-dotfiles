@@ -1,0 +1,43 @@
+{
+	// Custom Bar Modules Configuration
+	"custom/bar1": {
+	    "exec": "~/.config/waybar/scripts/bar_control.py 1",
+	    "return-type": "json",
+	    "tooltip": false
+	},
+	"custom/bar2": {
+	    "exec": "~/.config/waybar/scripts/bar_control.py 2",
+	    "return-type": "json",
+	    "tooltip": false
+	},
+	"custom/bar3": {
+	    "exec": "~/.config/waybar/scripts/bar_control.py 3",
+	    "return-type": "json",
+	    "tooltip": false
+	},
+	"custom/bar4": {
+	    "exec": "~/.config/waybar/scripts/bar_control.py 4",
+	    "return-type": "json",
+	    "tooltip": false
+	},
+	"custom/bar5": {
+	    "exec": "~/.config/waybar/scripts/bar_control.py 5",
+	    "return-type": "json",
+	    "tooltip": false
+	},
+	"custom/bar6": {
+	    "exec": "~/.config/waybar/scripts/bar_control.py 6",
+	    "return-type": "json",
+	    "tooltip": false
+	},
+	"custom/bar7": {
+	    "exec": "~/.config/waybar/scripts/bar_control.py 7",
+	    "return-type": "json",
+	    "tooltip": false
+	},
+	"custom/bar8": {
+	    "exec": "~/.config/waybar/scripts/bar_control.py 8",
+	    "return-type": "json",
+	    "tooltip": false
+	}
+}
